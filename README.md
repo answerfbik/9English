@@ -1,5 +1,3 @@
-# 9English
+# INDEX
 
-Hi!
-
-9 in English is nine.
+Please view B.html or B2.html
