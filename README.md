@@ -1,3 +1,3 @@
 # INDEX
 
-Please view B.html or B2.html :)
+Please view B.html or B.pdf :)
